@@ -1,0 +1,17 @@
+PORTFOLIO GENERAL · V7 · 13 NOVIEMBRE 2026
+Descomprimir TODO el ZIP en una carpeta nueva y abrir index.html.
+Incluye 24 Street, Qué Mila, Bobo!, Mr John’s, Liverpool y Terzo.
+Las imágenes se amplían con clic. Los videos tienen controles.
+Cartas y promociones son archivo de diseño: precios y fechas históricos.
+Las tipografías de Google requieren Internet.
+Liverpool: renders conceptuales con resolución limitada por su PDF fuente.
+Terzo: campañas, producto y visualización de box identificada como imagen con IA.
+No se modificó el sitio público de GitHub.
+
+V8: Jumpark como sexto caso. Primera selección de carta. Pendientes Welcome, emojis y pelotas en exportación de alta calidad.
+
+V9: Jummpark actualizado con ocho fotos del local terminado, gráfica ambiental y ajuste del logo.
+
+V11: Crazy Park agregado como séptimo caso. Abrir index.html o crazy-park.html.
+
+V12: Artist Medrano agregado como caso 08. Abrir index.html.

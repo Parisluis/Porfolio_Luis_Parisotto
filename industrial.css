@@ -1,0 +1,24 @@
+
+body.metalar { --bg:#101b26; --gold:#9ac4e4; --muted:#c3d2df; }
+body.tgt { --bg:#211416; --gold:#f19c99; --muted:#e0c6c4; }
+header { position:relative; background:none; justify-content:space-between; }
+.case-hero { display:grid; grid-template-columns:1fr 1.1fr; gap:5%; align-items:center; padding:65px 0 90px; }
+.case-hero h1 { font-size:clamp(70px,10vw,155px); margin-top:22px; }
+.case-hero .art button, .case-grid .art button { height:clamp(245px,36vw,470px); padding:18px; }
+.case-hero .art, .case-grid .art { background:#283c4f; }
+.tgt .art { background:#5c2427; }
+.case-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px; }
+.case-grid + .case-grid { margin-top:24px; }
+.light .art { background:#dbe3e9; }
+.tgt .light .art { background:#b35858; }
+.light figcaption { background:#222a34; }
+.tgt .light figcaption { background:#421e20; }
+.downloads { display:flex; gap:12px; flex-wrap:wrap; }
+.case-video { display:block; width:min(100%,880px); margin:32px auto 0; }
+@media(max-width:730px) {
+  .case-hero,.case-grid { grid-template-columns:1fr; gap:22px; }
+  .case-hero { padding:30px 0 55px; }
+}
+
+.concilio .case-hero h1 {font-size:clamp(50px,8vw,110px)}
+.concilio .case-grid .art button {height:clamp(360px,50vw,680px)}
